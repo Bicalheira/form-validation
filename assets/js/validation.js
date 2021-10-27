@@ -62,6 +62,9 @@ const errorMessages = {
 	state: {
 		valueMissing: "O campo de Estado não pode estar vazio",
 	},
+	price: {
+		valueMissing: "O campo de Preço não pode estar vazio",
+	},
 };
 
 const validators = {
